@@ -35,7 +35,6 @@ public class binarySearch {
      {
       int[] arr={6,5,4,3,2,1};
       int target=1;
-      // order(arr);
       int result=binarySearch(arr, target,order(arr));
       System.out.println(result);
  }
